@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish Verma
 - 👀 I’m founder of FewerClicks Software & Regenta Healthcare
-- 🌱 I’m currently learning blockchain & its real world application
+- 🌱 I’m currently working on solana & ethereum blockchain & its real world application
 - 💞️ I’m looking to collaborate on blockchain projects
 - 📫 Reach me at ashish@fewerclicks.in
 
