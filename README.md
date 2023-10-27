@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Ashish Verma
-- 📫 I’m a Solana & EVM blockchain.
+- 👋 Hi, I’m Ashish Verma, a Solana & EVM blockchain developer.
 - 👀 I’m founder of FewerClicks Software & Regenta Healthcare previously.
 - 💞️ I’m looking to collaborate on blockchain projects.
 
