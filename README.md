@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashish Verma, a Solana & EVM blockchain developer.
+- 👋 Hi, I’m a Solana & EVM blockchain developer.
 - 💞️ I’m looking to collaborate on blockchain projects.
 
 <!---
